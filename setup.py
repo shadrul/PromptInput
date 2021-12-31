@@ -8,7 +8,7 @@ setup(
   author = 'Shadrul',                   # Type in your name
   author_email = 'shadrul100@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/shadrul/PromptInput',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/shadrul/PromptInput/archive/refs/tags/version-0.1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/shadrul/PromptInput/archive/refs/tags/v-0.2.tar.gz',    # I explain this later on
   keywords = ['Argument parser', 'Prompt Input'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           # 'validators',
